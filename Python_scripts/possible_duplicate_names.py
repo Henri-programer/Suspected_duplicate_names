@@ -15,7 +15,7 @@ import networkx as nx
 import os
 
 # SETTING THE WORKING DIRECTORY WITH NECESSARY SUBDIRECTORIES
-main_directory = 'C:/Users/PT WORLD/Desktop/My Projects/RISE_mission_school_suspected_duplicates/'
+main_directory = 'C:/Users/PT WORLD/Desktop/My Projects/Suspected_duplicate_names/'
 os.chdir(main_directory)
 
 newpath = r'./output_data'  # store figures here
