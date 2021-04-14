@@ -1,0 +1,608 @@
+date,generation,state_name,town_name,town_id,subject_name,rank,subject_id,similar_subject_id
+2020-09-12,2,enugu,ogui_eke,38,Late Ozo Nnaemezie Nzekwe,114,280038114,100038144
+2020-08-20,1,enugu,ogui_eke,38,Ozo Nnaemezie Nzekwe,285,120038285,100038144
+2020-09-12,2,enugu,ogui_eke,38,Ozo Nnaemezie Nzekwe,212,230038212,100038144
+2020-08-20,1,enugu,ogui_eke,38,Late Ozo Nnaemezie Nzekwe,144,100038144,100038144
+2020-09-12,2,enugu,ogui_eke,38,Late Nnaemezie Nzekwe,107,250038107,100038144
+2020-08-20,1,enugu,ogui_eke,38,Late Nnaemezie Nzekwe,137,170038137,100038144
+2020-08-20,1,enugu,ogui_eke,38,Humphrey Ozoamuhe,57,100038057,100038057
+2020-08-20,1,enugu,ogui_eke,38,Late Humphrey Ozoamuhe,99,140038099,100038057
+2020-09-12,2,enugu,ogui_eke,38,Late Humphrey Ozoamuhe,73,260038073,100038057
+2020-09-12,2,enugu,ogui_eke,38,Humphrey Ozoamuhe,42,270038042,100038057
+2020-08-20,1,enugu,ogui_eke,38,Late Leonard Omulu,102,160038102,140038158
+2020-09-12,2,enugu,ogui_eke,38,Late Leonard Omulu,76,250038076,140038158
+2020-08-20,1,enugu,ogui_eke,38,Leonard Omulu Late,158,140038158,140038158
+2020-09-12,2,enugu,ogui_eke,38,Leonard Omulu Late,124,200038124,140038158
+2020-09-12,2,enugu,ogui_eke,38,Late Madam Martina Anichebe (nee Ozoude),78,210038078,120038104
+2020-08-20,1,enugu,ogui_eke,38,Late Martina Anichebe (nee Ozoude),108,140038108,120038104
+2020-08-20,1,enugu,ogui_eke,38,Late Madam Martina Anichebe (nee Ozoude),104,120038104,120038104
+2020-09-12,2,enugu,ogui_eke,38,Late Martina Anichebe (nee Ozoude),82,250038082,120038104
+2020-09-12,2,enugu,ogui_eke,38,Late Ndubuodi Nzekwe,105,290038105,110038135
+2020-08-20,1,enugu,ogui_eke,38,Late Ndubuodi Nzekwe,135,110038135,110038135
+2020-08-20,1,enugu,ogui_eke,38,Late Ndubuodi Ozoeji Nzekwe,136,140038136,110038135
+2020-09-12,2,enugu,ogui_eke,38,Late Ndubuodi Ozoeji Nzekwe,106,220038106,110038135
+2020-08-20,1,enugu,ogui_eke,38,Late Obueke Ezi,140,180038140,110038141
+2020-08-20,1,enugu,ogui_eke,38,Late Obueke Ezu,141,110038141,110038141
+2020-09-12,2,enugu,ogui_eke,38,Late Obueke Ezu,111,290038111,110038141
+2020-09-12,2,enugu,ogui_eke,38,Late Obueke Ezi,110,260038110,110038141
+2020-08-20,1,enugu,ogui_eke,38,Mr Patrick Madubuko,192,140038192,140038192
+2020-09-12,2,enugu,ogui_eke,38,Mr Patrick Madubuko,149,290038149,140038192
+2020-08-20,1,enugu,ogui_eke,38,Patrick Madubuko,290,190038290,140038192
+2020-09-12,2,enugu,ogui_eke,38,Patrick Madubuko,216,250038216,140038192
+2020-08-20,1,enugu,ogui_eke,38,Mrs Christiana Olunwa Eze,217,140038217,110038216
+2020-08-20,1,enugu,ogui_eke,38,Mrs Christiana Olunwa Eze ( Nee Ikpeamachi),218,170038218,110038216
+2020-08-20,1,enugu,ogui_eke,38,Mrs Christiana Olunwa,216,110038216,110038216
+2020-09-21,2,enugu,ogui_eke,38,Mrs Christiana Olunwa,252,210038252,110038216
+2020-09-12,2,enugu,ogui_eke,38,Eric Ahukwandu Amadife,31,220038031,120038001
+2020-08-20,1,enugu,ogui_eke,38,Ahukwandu Amadife,1,120038001,120038001
+2020-08-20,1,enugu,ogui_eke,38,Eric Ahukwandu Amadife,43,160038043,120038001
+2020-08-20,1,enugu,ogui_eke,38,Aniamalu Enem,4,110038004,110038004
+2020-08-20,1,enugu,ogui_eke,38,Late Aniamalu Enem,82,110038082,110038004
+2020-09-12,2,enugu,ogui_eke,38,Late Aniamalu Enem,58,270038058,110038004
+2020-08-20,1,enugu,ogui_eke,38,Anthony Oyinwa,14,130038014,100038013
+2020-09-12,2,enugu,ogui_eke,38,Anthony Onyiwa,8,270038008,100038013
+2020-08-20,1,enugu,ogui_eke,38,Anthony Onyiwa,13,100038013,100038013
+2020-08-20,1,enugu,ogui_eke,38,Boniface Omulu,22,190038022,160038021
+2020-09-21,2,enugu,ogui_eke,38,Boniface Ikechukwu Omulu,237,220038237,160038021
+2020-08-20,1,enugu,ogui_eke,38,Boniface Ikechukwu Omulu,21,160038021,160038021
+2020-08-20,1,enugu,ogui_eke,38,Edwina Malu,36,130038036,130038036
+2020-09-12,2,enugu,ogui_eke,38,Edwina Malu,24,290038024,130038036
+2020-10-06,2,enugu,ogui_eke,38,Ms Edwina Malu,274,210038274,130038036
+2020-08-20,1,enugu,ogui_eke,38,Mr Felix Amadife,182,120038182,110038048
+2020-08-20,1,enugu,ogui_eke,38,Felix Amadife,48,110038048,110038048
+2020-09-21,2,enugu,ogui_eke,38,Mr Felix Amadife,246,210038246,110038048
+2020-08-20,1,enugu,ogui_eke,38,Ifeoma (nee Ozoamuhe),60,110038060,110038060
+2020-09-12,2,enugu,ogui_eke,38,Ifeoma (nee Ozoamuhe),45,260038045,110038060
+2020-09-12,2,enugu,ogui_eke,38,Mrs Ifeoma (nee Ozoamuhe),172,240038172,110038060
+2020-08-20,1,enugu,ogui_eke,38,Late Callistus Ezu,91,100038091,100038091
+2020-09-12,2,enugu,ogui_eke,38,Late Callistus Ezu,66,230038066,100038091
+2020-08-20,1,enugu,ogui_eke,38,Late Callistus Ezi,90,170038090,100038091
+2020-08-20,1,enugu,ogui_eke,38,Late Ozo Umeha,145,130038145,130038145
+2020-09-21,2,enugu,ogui_eke,38,Late Ozo Umeha Ozoekwu,243,220038243,130038145
+2020-08-20,1,enugu,ogui_eke,38,Late Ozo Umeha Ozoekwu,146,160038146,130038145
+2020-08-20,1,enugu,ogui_eke,38,Late Pa Emmanuel Nwakaeze Nnagbo,149,150038149,120038148
+2020-09-21,2,enugu,ogui_eke,38,Late Pa Emmanuel Nwakaeze Nnagbo,244,250038244,120038148
+2020-08-20,1,enugu,ogui_eke,38,Late Pa Emmanuel Nnagbo,148,120038148,120038148
+2020-09-21,2,enugu,ogui_eke,38,Mr Nwannebuike Obueke,247,240038247,100038188
+2020-08-20,1,enugu,ogui_eke,38,Mr Nwannebuike,188,100038188,100038188
+2020-08-20,1,enugu,ogui_eke,38,Mr Nwannebuike Obueke,189,130038189,100038188
+2020-09-12,2,enugu,ogui_eke,38,Mr Ogbonna Ikpeamachi Obueke,148,260038148,110038191
+2020-08-20,1,enugu,ogui_eke,38,Mr Ogbonna Ikpeamachi Obueke,191,110038191,110038191
+2020-08-20,1,enugu,ogui_eke,38,Mr Ogbonna Ikpeamachi,190,180038190,110038191
+2020-08-20,1,enugu,ogui_eke,38,Rose Igweze (nee Madubuko),301,150038301,150038301
+2020-09-12,2,enugu,ogui_eke,38,Mrs Rose Igweze (nee Madubuko),189,270038189,150038301
+2020-09-12,2,enugu,ogui_eke,38,Rose Igweze (nee Madubuko),226,270038226,150038301
+2020-09-12,2,enugu,ogui_eke,38,Theophilus Onyiwa,232,270038232,160038308
+2020-08-20,1,enugu,ogui_eke,38,Theophilus Oyinwa,309,190038309,160038308
+2020-08-20,1,enugu,ogui_eke,38,Theophilus Onyiwa,308,160038308,160038308
+2020-09-12,2,enugu,ogui_eke,38,Amaoge Nee Ikebu,1,260038001,150038002
+2020-08-20,1,enugu,ogui_eke,38,Amaoge Nee Ikebu,2,150038002,150038002
+2020-09-12,2,enugu,ogui_eke,38,Anaezichukwuolu Ozikpamachukwu,2,290038002,180038003
+2020-08-20,1,enugu,ogui_eke,38,Anaezichukwuolu Ozikpamachukwu,3,180038003,180038003
+2020-08-20,1,enugu,ogui_eke,38,Aniezichukwuolu Ikpamachukwu,7,100038007,100038007
+2020-09-12,2,enugu,ogui_eke,38,Aniezichukwuolu Ikpamachukwu,3,220038003,100038007
+2020-08-20,1,enugu,ogui_eke,38,Aniezichukwuoru Ozoikpa,8,130038008,130038008
+2020-09-12,2,enugu,ogui_eke,38,Aniezichukwuoru Ozoikpa,4,250038004,130038008
+2020-08-20,1,enugu,ogui_eke,38,Anthony Anikwe Ozougwu,9,160038009,160038009
+2020-09-12,2,enugu,ogui_eke,38,Anthony Anikwe Ozougwu,5,280038005,160038009
+2020-08-20,1,enugu,ogui_eke,38,Anthony Igwegbu Late,10,110038010,110038010
+2020-09-12,2,enugu,ogui_eke,38,Anthony Igwegbu Late,6,210038006,110038010
+2020-10-06,1,enugu,ogui_eke,38,Late Anthony Iromalu Omugu,317,150038317,140038011
+2020-08-20,1,enugu,ogui_eke,38,Anthony Iromalu Omugu,11,140038011,140038011
+2020-08-20,1,enugu,ogui_eke,38,Anthony Malu,12,170038012,170038012
+2020-09-12,2,enugu,ogui_eke,38,Anthony Malu,7,240038007,170038012
+2020-08-20,1,enugu,ogui_eke,38,Augustina (nee Odinko),18,150038018,150038018
+2020-09-12,2,enugu,ogui_eke,38,Augustina (nee Odinko),9,200038009,150038018
+2020-09-12,2,enugu,ogui_eke,38,Benedeen Ikpamachukwu,10,250038010,180038019
+2020-08-20,1,enugu,ogui_eke,38,Benedeen Ikpamachukwu,19,180038019,180038019
+2020-09-12,2,enugu,ogui_eke,38,Benjamin Nwaabba,11,280038011,130038020
+2020-08-20,1,enugu,ogui_eke,38,Benjamin Nwaabba,20,130038020,130038020
+2020-08-20,1,enugu,ogui_eke,38,Caroline Amadife,23,120038023,120038023
+2020-09-12,2,enugu,ogui_eke,38,Caroline Amadife,12,210038012,120038023
+2020-09-12,2,enugu,ogui_eke,38,Catherine Ozikpamachukwu Late,13,240038013,150038024
+2020-08-20,1,enugu,ogui_eke,38,Catherine Ozikpamachukwu Late,24,150038024,150038024
+2020-08-20,1,enugu,ogui_eke,38,Chimaogu Ozougwu,26,110038026,110038026
+2020-09-12,2,enugu,ogui_eke,38,Chimaogu Ozougwu,14,270038014,110038026
+2020-09-12,2,enugu,ogui_eke,38,Chinyeaka Omulu,15,200038015,140038027
+2020-08-20,1,enugu,ogui_eke,38,Chinyeaka Omulu,27,140038027,140038027
+2020-08-20,1,enugu,ogui_eke,38,Christiana Ikpamachukwu,29,100038029,100038029
+2020-09-12,2,enugu,ogui_eke,38,Christiana Ikpamachukwu,17,260038017,100038029
+2020-08-20,1,enugu,ogui_eke,38,Chukwuma Aniekwe,31,180038031,180038031
+2020-09-12,2,enugu,ogui_eke,38,Chukwuma Aniekwe,19,220038019,180038031
+2020-09-12,2,enugu,ogui_eke,38,Chukwuma Venitus Ozomagbo,20,270038020,110038032
+2020-08-20,1,enugu,ogui_eke,38,Chukwuma Venitus Ozomagbo,32,110038032,110038032
+2020-08-20,1,enugu,ogui_eke,38,Cornelius Obiogbolu,33,140038033,140038033
+2020-09-12,2,enugu,ogui_eke,38,Cornelius Obiogbolu,21,200038021,140038033
+2020-09-12,2,enugu,ogui_eke,38,Eddie Omulu Late,22,230038022,170038034
+2020-08-20,1,enugu,ogui_eke,38,Eddie Omulu Late,34,170038034,170038034
+2020-09-12,2,enugu,ogui_eke,38,Edwin Odinko,23,260038023,100038035
+2020-08-20,1,enugu,ogui_eke,38,Edwin Odinko,35,100038035,100038035
+2020-08-20,1,enugu,ogui_eke,38,Ejimvo (nee Amadife Late),37,160038037,160038037
+2020-09-12,2,enugu,ogui_eke,38,Ejimvo (nee Amadife Late),25,220038025,160038037
+2020-09-12,2,enugu,ogui_eke,38,Emma Amadife Late,26,250038026,190038038
+2020-08-20,1,enugu,ogui_eke,38,Emma Amadife Late,38,190038038,190038038
+2020-09-12,2,enugu,ogui_eke,38,Emma Ojide Late,27,280038027,120038039
+2020-08-20,1,enugu,ogui_eke,38,Emma Ojide Late,39,120038039,120038039
+2020-08-20,1,enugu,ogui_eke,38,Emma Omulu Late,40,170038040,170038040
+2020-09-12,2,enugu,ogui_eke,38,Emma Omulu Late,28,210038028,170038040
+2020-09-12,2,enugu,ogui_eke,38,Emmanuel Madukwe,29,240038029,100038041
+2020-08-20,1,enugu,ogui_eke,38,Emmanuel Madukwe,41,100038041,100038041
+2020-08-20,1,enugu,ogui_eke,38,Engr Eugene Nnagbo,42,130038042,130038042
+2020-09-12,2,enugu,ogui_eke,38,Engr Eugene Nnagbo,30,290038030,130038042
+2020-08-20,1,enugu,ogui_eke,38,Eucharia Ozoamuhe,44,190038044,190038044
+2020-09-12,2,enugu,ogui_eke,38,Eucharia Ozoamuhe,32,250038032,190038044
+2020-09-12,2,enugu,ogui_eke,38,Faustina Onyiwa,33,280038033,150038046
+2020-08-20,1,enugu,ogui_eke,38,Faustina Onyiwa,46,150038046,150038046
+2020-09-12,2,enugu,ogui_eke,38,Felicia (nee Odinko),34,210038034,180038047
+2020-08-20,1,enugu,ogui_eke,38,Felicia (nee Odinko),47,180038047,180038047
+2020-08-20,1,enugu,ogui_eke,38,Fidelis Anikwe _ Ikebu Ozoegwu,49,140038049,140038049
+2020-09-12,2,enugu,ogui_eke,38,Fidelis Anikwe _ Ikebu Ozoegwu,35,240038035,140038049
+2020-08-20,1,enugu,ogui_eke,38,Georgie Owakpa (nee Omulu),51,120038051,120038051
+2020-09-12,2,enugu,ogui_eke,38,Georgie Owakpa (nee Omulu),36,270038036,120038051
+2020-09-12,2,enugu,ogui_eke,38,Gerald Chikelu,37,200038037,150038052
+2020-08-20,1,enugu,ogui_eke,38,Gerald Chikelu,52,150038052,150038052
+2020-08-20,1,enugu,ogui_eke,38,Gerrard Anikwe,53,180038053,180038053
+2020-09-12,2,enugu,ogui_eke,38,Gerrard Anikwe,38,230038038,180038053
+2020-08-20,1,enugu,ogui_eke,38,Gloria Nee Amadife,54,110038054,110038054
+2020-09-12,2,enugu,ogui_eke,38,Gloria Nee Amadife,39,260038039,110038054
+2020-09-12,2,enugu,ogui_eke,38,Grace Nzekwe (nee Omulu),40,210038040,140038055
+2020-08-20,1,enugu,ogui_eke,38,Grace Nzekwe (nee Omulu),55,140038055,140038055
+2020-08-20,1,enugu,ogui_eke,38,Gregory Eze Nwabba,56,170038056,170038056
+2020-09-12,2,enugu,ogui_eke,38,Gregory Eze Nwabba,41,240038041,170038056
+2020-09-12,2,enugu,ogui_eke,38,Hyginus Ezenwabba,43,200038043,130038058
+2020-08-20,1,enugu,ogui_eke,38,Hyginus Ezenwabba,58,130038058,130038058
+2020-09-12,2,enugu,ogui_eke,38,Ichie Kennedy Nwanamuru,44,230038044,160038059
+2020-08-20,1,enugu,ogui_eke,38,Ichie Kennedy Nwanamuru,59,160038059,160038059
+2020-08-20,1,enugu,ogui_eke,38,Ifeyi (nee Amadife) Late,61,140038061,140038061
+2020-09-12,2,enugu,ogui_eke,38,Ifeyi (nee Amadife) Late,46,290038046,140038061
+2020-08-20,1,enugu,ogui_eke,38,Ikechukwu Amadife Late,64,130038064,130038064
+2020-09-12,2,enugu,ogui_eke,38,Ikechukwu Amadife Late,47,220038047,130038064
+2020-08-20,1,enugu,ogui_eke,38,Innocent Amadife,65,160038065,160038065
+2020-09-12,2,enugu,ogui_eke,38,Innocent Amadife,48,250038048,160038065
+2020-09-12,2,enugu,ogui_eke,38,Isabella Ikpamachukwu,49,280038049,120038067
+2020-08-20,1,enugu,ogui_eke,38,Isabella Ikpamachukwu,67,120038067,120038067
+2020-08-20,1,enugu,ogui_eke,38,Jacinta (nee Odinko),68,150038068,150038068
+2020-09-12,2,enugu,ogui_eke,38,Jacinta (nee Odinko),50,230038050,150038068
+2020-08-20,1,enugu,ogui_eke,38,Jacinta (nee Ojide),69,180038069,180038069
+2020-09-12,2,enugu,ogui_eke,38,Jacinta (nee Ojide),51,260038051,180038069
+2020-08-20,1,enugu,ogui_eke,38,John Ozokolo,70,130038070,130038070
+2020-09-12,2,enugu,ogui_eke,38,John Ozokolo,52,290038052,130038070
+2020-09-12,2,enugu,ogui_eke,38,Johnson Aniekwe,53,220038053,160038071
+2020-08-20,1,enugu,ogui_eke,38,Johnson Aniekwe,71,160038071,160038071
+2020-08-20,1,enugu,ogui_eke,38,Kate Nee Igwegbu,77,140038077,110038076
+2020-08-20,1,enugu,ogui_eke,38,Kate Ikpamachukwu,76,110038076,110038076
+2020-09-12,2,enugu,ogui_eke,38,Kenneth Ikpamachukwu,54,250038054,170038078
+2020-08-20,1,enugu,ogui_eke,38,Kenneth Ikpamachukwu,78,170038078,170038078
+2020-08-20,1,enugu,ogui_eke,38,Late Alexander Ozougwu,79,100038079,100038079
+2020-09-12,2,enugu,ogui_eke,38,Late Alexander Ozougwu,55,280038055,100038079
+2020-09-12,2,enugu,ogui_eke,38,Late Alfred Ozo Okafor Nnagbo,56,210038056,150038080
+2020-08-20,1,enugu,ogui_eke,38,Late Alfred Ozo Okafor Nnagbo,80,150038080,150038080
+2020-09-12,2,enugu,ogui_eke,38,Late Ambrose Ozokolo,57,240038057,180038081
+2020-08-20,1,enugu,ogui_eke,38,Late Ambrose Ozokolo,81,180038081,180038081
+2020-09-12,2,enugu,ogui_eke,38,Late Anthony Aniakor,59,200038059,140038083
+2020-08-20,1,enugu,ogui_eke,38,Late Anthony Aniakor,83,140038083,140038083
+2020-09-12,2,enugu,ogui_eke,38,Late Anudu Nwaakpushi Jnr,60,250038060,170038084
+2020-08-20,1,enugu,ogui_eke,38,Late Anudu Nwaakpushi Jnr,84,170038084,170038084
+2020-09-12,2,enugu,ogui_eke,38,Late Apani Ozougwu,61,280038061,100038085
+2020-08-20,1,enugu,ogui_eke,38,Late Apani Ozougwu,85,100038085,100038085
+2020-08-20,1,enugu,ogui_eke,38,Late Augustine Madukwe,86,130038086,130038086
+2020-09-12,2,enugu,ogui_eke,38,Late Augustine Madukwe,62,210038062,130038086
+2020-09-12,2,enugu,ogui_eke,38,Late Barrister Dr Ferdinand Aniekwe,63,240038063,160038087
+2020-08-20,1,enugu,ogui_eke,38,Late Barrister Dr Ferdinand Aniekwe,87,160038087,160038087
+2020-09-12,2,enugu,ogui_eke,38,Late Batholomew Nnagbo,64,270038064,190038088
+2020-08-20,1,enugu,ogui_eke,38,Late Batholomew Nnagbo,88,190038088,190038088
+2020-08-20,1,enugu,ogui_eke,38,Late Bertrand N Nnagbo,89,120038089,120038089
+2020-09-12,2,enugu,ogui_eke,38,Late Bertrand N Nnagbo,65,200038065,120038089
+2020-08-20,1,enugu,ogui_eke,38,Late Chiama Ozougwu,92,130038092,130038092
+2020-09-12,2,enugu,ogui_eke,38,Late Chiama Ozougwu,67,260038067,130038092
+2020-09-12,2,enugu,ogui_eke,38,Late Chiekedo Ozougwu,68,290038068,160038093
+2020-08-20,1,enugu,ogui_eke,38,Late Chiekedo Ozougwu,93,160038093,160038093
+2020-08-20,1,enugu,ogui_eke,38,Late Christian Ofor,94,190038094,190038094
+2020-09-12,2,enugu,ogui_eke,38,Late Christian Ofor,69,220038069,190038094
+2020-08-20,1,enugu,ogui_eke,38,Late Cosmas Ezejiofor Okey,95,120038095,120038095
+2020-09-12,2,enugu,ogui_eke,38,Late Cosmas Ezejiofor Okey,70,270038070,120038095
+2020-09-12,2,enugu,ogui_eke,38,Late Flight Captain Chikelu Ezu ( He Was A Pilot For Biafran Army During The Civil War),72,230038072,110038098
+2020-08-20,1,enugu,ogui_eke,38,Late Flight Captain Chikelu Ezu ( He Was A Pilot For Biafran Army During The Civil War),98,110038098,110038098
+2020-09-12,2,enugu,ogui_eke,38,Late Innocent Ezi,74,290038074,100038100
+2020-08-20,1,enugu,ogui_eke,38,Late Innocent Ezi,100,100038100,100038100
+2020-09-12,2,enugu,ogui_eke,38,Late Izundu Nnabude,75,220038075,130038101
+2020-08-20,1,enugu,ogui_eke,38,Late Izundu Nnabude,101,130038101,130038101
+2020-09-12,2,enugu,ogui_eke,38,Late Madam Nwabundo,79,240038079,150038105
+2020-08-20,1,enugu,ogui_eke,38,Late Madam Nwabundo,105,150038105,150038105
+2020-09-12,2,enugu,ogui_eke,38,Late Madu Ezu,81,220038081,110038107
+2020-08-20,1,enugu,ogui_eke,38,Late Madu Ezu,107,110038107,110038107
+2020-09-12,2,enugu,ogui_eke,38,Late Mathais Ozoiloh,83,280038083,170038109
+2020-08-20,1,enugu,ogui_eke,38,Late Mathais Ozoiloh,109,170038109,170038109
+2020-08-20,1,enugu,ogui_eke,38,Late Mgbodinma ( Nee Ozomagbo ),110,120038110,120038110
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Mgbodinma ( Nee Ozomagbo),128,180038128,120038110
+2020-08-20,1,enugu,ogui_eke,38,Late Michael Ezi,111,150038111,150038111
+2020-09-12,2,enugu,ogui_eke,38,Late Michael Ezi,85,240038085,150038111
+2020-09-12,2,enugu,ogui_eke,38,Late Mr Anthony Nnabude,86,270038086,180038112
+2020-08-20,1,enugu,ogui_eke,38,Late Mr Anthony Nnabude,112,180038112,180038112
+2020-08-20,1,enugu,ogui_eke,38,Late Mr Bertrand Ngasoeze Nnagbo,113,110038113,110038113
+2020-09-12,2,enugu,ogui_eke,38,Late Mr Bertrand Ngasoeze Nnagbo,87,200038087,110038113
+2020-09-12,2,enugu,ogui_eke,38,Late Mr Ferdinand Okongwu,88,230038088,140038114
+2020-08-20,1,enugu,ogui_eke,38,Late Mr Ferdinand Okongwu,114,140038114,140038114
+2020-09-12,2,enugu,ogui_eke,38,Late Mr Godwin Ofordu Udeigbo,89,260038089,170038115
+2020-08-20,1,enugu,ogui_eke,38,Late Mr Godwin Ofordu Udeigbo,115,170038115,170038115
+2020-08-20,1,enugu,ogui_eke,38,Late Mr Johnson Chikelu,116,100038116,100038116
+2020-09-12,2,enugu,ogui_eke,38,Late Mr Johnson Chikelu,90,210038090,100038116
+2020-09-12,2,enugu,ogui_eke,38,Late Mr Livinus Ikpeamachi,91,240038091,130038117
+2020-08-20,1,enugu,ogui_eke,38,Late Mr Livinus Ikpeamachi,117,130038117,130038117
+2020-08-20,1,enugu,ogui_eke,38,Late Mr Thomas Nnabude,118,160038118,160038118
+2020-09-12,2,enugu,ogui_eke,38,Late Mr Thomas Nnabude,92,270038092,160038118
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Catherine Osmond,94,230038094,140038120
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Catherine Osmond,120,140038120,140038120
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Helen Chigbo (nee Ozoude),96,290038096,100038122
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Helen Chigbo (nee Ozoude),122,100038122,100038122
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Izunnwane Aduchie (nee Ozoude),123,130038123,130038123
+2020-09-21,2,enugu,ogui_eke,38,Late Mrs Izunnwane Aduchie (nee Ozoude),240,230038240,130038123
+2020-09-21,2,enugu,ogui_eke,38,Late Mrs Josephine Ojiaku (nee Obiogbolu),241,260038241,120038126
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Josephine Ojiaku (nee Obiogbolu),126,120038126,120038126
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Regina Emmanuel Ezeugwu (nee Okey),100,240038100,160038130
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Regina Emmanuel Ezeugwu (nee Okey),130,160038130,160038130
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Umebe (nee Okey),132,120038132,120038132
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Umebe (nee Okey),102,200038102,120038132
+2020-09-12,2,enugu,ogui_eke,38,Late Ms Gertrude Nnagbo,103,230038103,150038133
+2020-08-20,1,enugu,ogui_eke,38,Late Ms Gertrude Nnagbo,133,150038133,150038133
+2020-09-12,2,enugu,ogui_eke,38,Late Native Doctor Nnaemezie Nzekwe,104,260038104,180038134
+2020-08-20,1,enugu,ogui_eke,38,Late Native Doctor Nnaemezie Nzekwe,134,180038134,180038134
+2020-08-20,1,enugu,ogui_eke,38,Late Nnajiofor Akpushi,138,100038138,100038138
+2020-09-12,2,enugu,ogui_eke,38,Late Nnajiofor Akpushi,108,280038108,100038138
+2020-08-20,1,enugu,ogui_eke,38,Late Nwangwu Ozoekwu,139,130038139,130038139
+2020-09-12,2,enugu,ogui_eke,38,Late Nwangwu Ozoekwu,109,210038109,130038139
+2020-09-12,2,enugu,ogui_eke,38,Late Offorbuike Ozoamuhe,112,220038112,140038142
+2020-08-20,1,enugu,ogui_eke,38,Late Offorbuike Ozoamuhe,142,140038142,140038142
+2020-09-12,2,enugu,ogui_eke,38,Late Okeri Ofor,113,250038113,170038143
+2020-08-20,1,enugu,ogui_eke,38,Late Okeri Ofor,143,170038143,170038143
+2020-08-20,1,enugu,ogui_eke,38,Late Ozo Vincent Nnedi Anubu,147,190038147,190038147
+2020-09-12,2,enugu,ogui_eke,38,Late Ozo Vincent Nnedi Anubu,115,210038115,190038147
+2020-08-20,1,enugu,ogui_eke,38,Late Regina Emmanuel,151,130038151,130038151
+2020-09-12,2,enugu,ogui_eke,38,Late Regina Emmanuel,117,270038117,130038151
+2020-08-20,1,enugu,ogui_eke,38,Late Robert Okeruwe Aniekwe Akpushi,152,160038152,160038152
+2020-09-12,2,enugu,ogui_eke,38,Late Robert Okeruwe Aniekwe Akpushi,118,200038118,160038152
+2020-08-20,1,enugu,ogui_eke,38,Late Romanus Okongwu,153,190038153,190038153
+2020-09-12,2,enugu,ogui_eke,38,Late Romanus Okongwu,119,230038119,190038153
+2020-09-12,2,enugu,ogui_eke,38,Late Sergeant Livinus Ikpeamachi ( A Police Officer),120,280038120,120038154
+2020-08-20,1,enugu,ogui_eke,38,Late Sergeant Livinus Ikpeamachi ( A Police Officer),154,120038154,120038154
+2020-08-20,1,enugu,ogui_eke,38,Late Udeogene Nnagbo,155,150038155,150038155
+2020-09-12,2,enugu,ogui_eke,38,Late Udeogene Nnagbo,121,210038121,150038155
+2020-09-12,2,enugu,ogui_eke,38,Late Ugwuozor Ozougwu,122,240038122,180038156
+2020-08-20,1,enugu,ogui_eke,38,Late Ugwuozor Ozougwu,156,180038156,180038156
+2020-09-12,2,enugu,ogui_eke,38,Leonard Amadife,123,270038123,110038157
+2020-08-20,1,enugu,ogui_eke,38,Leonard Amadife,157,110038157,110038157
+2020-08-20,1,enugu,ogui_eke,38,Madam Odonna Ozokolo (nee Okey),160,120038160,120038160
+2020-09-12,2,enugu,ogui_eke,38,Madam Odonna Ozokolo (nee Okey),125,230038125,120038160
+2020-09-12,2,enugu,ogui_eke,38,Madam Pauline Nwankwo (nee Ozoude),126,260038126,180038162
+2020-08-20,1,enugu,ogui_eke,38,Madam Pauline Nwankwo (nee Ozoude),162,180038162,180038162
+2020-08-20,1,enugu,ogui_eke,38,Madam Therasa Ibekwe (nee Aniamalu),163,110038163,110038163
+2020-09-12,2,enugu,ogui_eke,38,Madam Therasa Ibekwe (nee Aniamalu),127,290038127,110038163
+2020-08-20,1,enugu,ogui_eke,38,Madam Veronica N Mba,165,170038165,100038166
+2020-08-20,1,enugu,ogui_eke,38,Madam Veronica N Mba ( Nee Ozoude),166,100038166,100038166
+2020-09-12,2,enugu,ogui_eke,38,Mathew Ikebu,128,220038128,130038167
+2020-08-20,1,enugu,ogui_eke,38,Mathew Ikebu,167,130038167,130038167
+2020-09-12,2,enugu,ogui_eke,38,Michael Okongwu,129,250038129,160038168
+2020-08-20,1,enugu,ogui_eke,38,Michael Okongwu,168,160038168,160038168
+2020-08-20,1,enugu,ogui_eke,38,Mode (nee Ojide),169,190038169,190038169
+2020-09-12,2,enugu,ogui_eke,38,Mode (nee Ojide),130,200038130,190038169
+2020-09-12,2,enugu,ogui_eke,38,Mr Alfred Ozo Okafor Nnagbo,131,230038131,140038170
+2020-08-20,1,enugu,ogui_eke,38,Mr Alfred Ozo Okafor Nnagbo,170,140038170,140038170
+2020-08-20,1,enugu,ogui_eke,38,Mr Anaezichukwuoru Ozoikpa,171,170038171,170038171
+2020-09-12,2,enugu,ogui_eke,38,Mr Anaezichukwuoru Ozoikpa,132,260038132,170038171
+2020-09-12,2,enugu,ogui_eke,38,Mr Bartholomew Chikelu,133,290038133,100038172
+2020-08-20,1,enugu,ogui_eke,38,Mr Bartholomew Chikelu,172,100038172,100038172
+2020-08-20,1,enugu,ogui_eke,38,Mr Benjamin Aniakor,173,130038173,130038173
+2020-09-12,2,enugu,ogui_eke,38,Mr Benjamin Aniakor,134,220038134,130038173
+2020-09-12,2,enugu,ogui_eke,38,Mr Chigozie Ozokolo,135,250038135,160038174
+2020-08-20,1,enugu,ogui_eke,38,Mr Chigozie Ozokolo,174,160038174,160038174
+2020-09-12,2,enugu,ogui_eke,38,Mr Chijioke Amadife,136,280038136,190038175
+2020-08-20,1,enugu,ogui_eke,38,Mr Chijioke Amadife,175,190038175,190038175
+2020-08-20,1,enugu,ogui_eke,38,Mr Chukwuma Ozomagbo,176,120038176,120038176
+2020-09-12,2,enugu,ogui_eke,38,Mr Chukwuma Ozomagbo,137,210038137,120038176
+2020-08-20,1,enugu,ogui_eke,38,Mr Clement Ofor,177,150038177,150038177
+2020-09-12,2,enugu,ogui_eke,38,Mr Clement Ofor,138,240038138,150038177
+2020-08-20,1,enugu,ogui_eke,38,Mr Cletus Aniakor,178,180038178,180038178
+2020-09-12,2,enugu,ogui_eke,38,Mr Cletus Aniakor,139,270038139,180038178
+2020-08-20,1,enugu,ogui_eke,38,Mr Emmanuel Aniakor,179,110038179,110038179
+2020-09-12,2,enugu,ogui_eke,38,Mr Emmanuel Aniakor,140,220038140,110038179
+2020-08-20,1,enugu,ogui_eke,38,Mr Eric Ozougwu,180,160038180,160038180
+2020-09-12,2,enugu,ogui_eke,38,Mr Eric Ozougwu,141,250038141,160038180
+2020-09-12,2,enugu,ogui_eke,38,Mr Fabian Madukwe,142,280038142,190038181
+2020-08-20,1,enugu,ogui_eke,38,Mr Fabian Madukwe,181,190038181,190038181
+2020-09-12,2,enugu,ogui_eke,38,Mr Francis Madubueze,143,210038143,150038183
+2020-08-20,1,enugu,ogui_eke,38,Mr Francis Madubueze,183,150038183,150038183
+2020-09-12,2,enugu,ogui_eke,38,Mr Joseph Emeka Aniakor,144,240038144,180038184
+2020-08-20,1,enugu,ogui_eke,38,Mr Joseph Emeka Aniakor,184,180038184,180038184
+2020-09-12,2,enugu,ogui_eke,38,Mr Linus Aniakor,145,270038145,110038185
+2020-08-20,1,enugu,ogui_eke,38,Mr Linus Aniakor,185,110038185,110038185
+2020-08-20,1,enugu,ogui_eke,38,Mr Madubueze Okongwu,186,140038186,140038186
+2020-09-12,2,enugu,ogui_eke,38,Mr Madubueze Okongwu,146,200038146,140038186
+2020-08-20,1,enugu,ogui_eke,38,Mr Malachy Madukwe,187,170038187,170038187
+2020-09-12,2,enugu,ogui_eke,38,Mr Malachy Madukwe,147,230038147,170038187
+2020-09-12,2,enugu,ogui_eke,38,Mr Raymond Ikpeamachi,150,240038150,170038193
+2020-08-20,1,enugu,ogui_eke,38,Mr Raymond Ikpeamachi,193,170038193,170038193
+2020-09-12,2,enugu,ogui_eke,38,Mr Religious Madukwe,151,270038151,100038194
+2020-08-20,1,enugu,ogui_eke,38,Mr Religious Madukwe,194,100038194,100038194
+2020-08-20,1,enugu,ogui_eke,38,Mr Remigius Chikelu,195,130038195,130038195
+2020-09-12,2,enugu,ogui_eke,38,Mr Remigius Chikelu,152,200038152,130038195
+2020-09-12,2,enugu,ogui_eke,38,Mr Simeon Obiogbolu,153,230038153,160038196
+2020-08-20,1,enugu,ogui_eke,38,Mr Simeon Obiogbolu,196,160038196,160038196
+2020-09-12,2,enugu,ogui_eke,38,Mr Sunday Amadife,154,260038154,190038197
+2020-08-20,1,enugu,ogui_eke,38,Mr Sunday Amadife,197,190038197,190038197
+2020-09-12,2,enugu,ogui_eke,38,Mr Sunday Aniakor,155,290038155,120038198
+2020-08-20,1,enugu,ogui_eke,38,Mr Sunday Aniakor,198,120038198,120038198
+2020-08-20,1,enugu,ogui_eke,38,Mr Sylvester Ozoiloh,199,150038199,150038199
+2020-09-12,2,enugu,ogui_eke,38,Mr Sylvester Ozoiloh,156,220038156,150038199
+2020-09-12,2,enugu,ogui_eke,38,Mr Uche Kaligwe Ozokolo,157,250038157,110038200
+2020-08-20,1,enugu,ogui_eke,38,Mr Uche Kaligwe Ozokolo,200,110038200,110038200
+2020-08-20,1,enugu,ogui_eke,38,Mr Udeogene Nnagbo,201,140038201,140038201
+2020-09-12,2,enugu,ogui_eke,38,Mr Udeogene Nnagbo,158,280038158,140038201
+2020-09-12,2,enugu,ogui_eke,38,Mr Valentine Ozoamuhe,159,210038159,170038202
+2020-08-20,1,enugu,ogui_eke,38,Mr Valentine Ozoamuhe,202,170038202,170038202
+2020-08-20,1,enugu,ogui_eke,38,Mrs Adriane Eze ( Nee Ozomagbo),204,130038204,100038203
+2020-08-20,1,enugu,ogui_eke,38,Mrs Adriane Eze,203,100038203,100038203
+2020-09-12,2,enugu,ogui_eke,38,Mrs Benedith Nwankwo (nee Madukwe),163,250038163,130038210
+2020-08-20,1,enugu,ogui_eke,38,Mrs Benedith Nwankwo (nee Madukwe),210,130038210,130038210
+2020-08-20,1,enugu,ogui_eke,38,Mrs Caroline,212,190038212,190038212
+2020-09-12,2,enugu,ogui_eke,38,Mrs Caroline,165,210038165,190038212
+2020-08-20,1,enugu,ogui_eke,38,Mrs Caroline Ozoanichebe (nee Nnagbo),213,120038213,120038213
+2020-09-21,2,enugu,ogui_eke,38,Mrs Caroline Ozoanichebe (nee Nnagbo),251,280038251,120038213
+2020-09-12,2,enugu,ogui_eke,38,Mrs Chekwube Ozokolo,166,240038166,150038214
+2020-08-20,1,enugu,ogui_eke,38,Mrs Chekwube Ozokolo,214,150038214,150038214
+2020-08-20,1,enugu,ogui_eke,38,Mrs Florence Etiko (nee Okongwu),223,140038223,140038223
+2020-09-12,2,enugu,ogui_eke,38,Mrs Florence Etiko (nee Okongwu),171,210038171,140038223
+2020-08-20,1,enugu,ogui_eke,38,Mrs Maria Anene (nee Okeruwo),228,190038228,190038228
+2020-09-12,2,enugu,ogui_eke,38,Mrs Maria Anene (nee Okeruwo),175,230038175,190038228
+2020-08-20,1,enugu,ogui_eke,38,Mrs Obiageri Geraldine (nee Ozoamuhe),234,190038234,190038234
+2020-09-12,2,enugu,ogui_eke,38,Mrs Obiageri Geraldine (nee Ozoamuhe),181,230038181,190038234
+2020-09-12,2,enugu,ogui_eke,38,Mrs Omulu (nee Odinko),182,260038182,120038235
+2020-08-20,1,enugu,ogui_eke,38,Mrs Omulu (nee Odinko),235,120038235,120038235
+2020-09-12,2,enugu,ogui_eke,38,Mrs Patricia Amugbanite (nee Chikelu),184,220038184,180038237
+2020-08-20,1,enugu,ogui_eke,38,Mrs Patricia Amugbanite (nee Chikelu),237,180038237,180038237
+2020-08-20,1,enugu,ogui_eke,38,Mrs Rose Etiko (nee Madukwe),241,120038241,120038241
+2020-09-12,2,enugu,ogui_eke,38,Mrs Rose Etiko (nee Madukwe),188,240038188,120038241
+2020-09-12,2,enugu,ogui_eke,38,Mrs Theodora Iyioko (nee Okeruwo),191,250038191,110038244
+2020-08-20,1,enugu,ogui_eke,38,Mrs Theodora Iyioko (nee Okeruwo),244,110038244,110038244
+2020-08-20,1,enugu,ogui_eke,38,Mrs Theresa Ibekwe (nee Aniamalu),245,140038245,140038245
+2020-09-12,2,enugu,ogui_eke,38,Mrs Theresa Ibekwe (nee Aniamalu),192,280038192,140038245
+2020-09-12,2,enugu,ogui_eke,38,Mrs Ugozor Ozougwu,194,240038194,100038247
+2020-08-20,1,enugu,ogui_eke,38,Mrs Ugozor Ozougwu,247,100038247,100038247
+2020-08-20,1,enugu,ogui_eke,38,Mrs Uzoego Eze,248,130038248,130038248
+2020-08-20,1,enugu,ogui_eke,38,Mrs Uzoego Eze ( Nee Ozoikpa),249,160038249,130038248
+2020-09-12,2,enugu,ogui_eke,38,Ms Njideka Kaligwe Ozokolo,197,230038197,170038252
+2020-08-20,1,enugu,ogui_eke,38,Ms Njideka Kaligwe Ozokolo,252,170038252,170038252
+2020-09-12,2,enugu,ogui_eke,38,Ndubuodi Obiogbolu,198,260038198,130038254
+2020-08-20,1,enugu,ogui_eke,38,Ndubuodi Obiogbolu,254,130038254,130038254
+2020-08-20,1,enugu,ogui_eke,38,Ngozi Nee Ikebu,256,190038256,190038256
+2020-09-12,2,enugu,ogui_eke,38,Ngozi Nee Ikebu,199,290038199,190038256
+2020-09-12,2,enugu,ogui_eke,38,Ngozika Omulu,200,250038200,120038257
+2020-08-20,1,enugu,ogui_eke,38,Ngozika Omulu,257,120038257,120038257
+2020-08-20,1,enugu,ogui_eke,38,Nicholas Omulu,258,150038258,150038258
+2020-09-12,2,enugu,ogui_eke,38,Nicholas Omulu,201,280038201,150038258
+2020-09-12,2,enugu,ogui_eke,38,Nnebuike Oyinwa,202,210038202,120038263
+2020-08-20,1,enugu,ogui_eke,38,Nnebuike Oyinwa,263,120038263,120038263
+2020-09-12,2,enugu,ogui_eke,38,Nwaabba Aniekwe,203,240038203,180038265
+2020-08-20,1,enugu,ogui_eke,38,Nwaabba Aniekwe,265,180038265,180038265
+2020-09-12,2,enugu,ogui_eke,38,Nwabugo (nee Amadife),204,270038204,140038267
+2020-08-20,1,enugu,ogui_eke,38,Nwabugo (nee Amadife),267,140038267,140038267
+2020-09-12,2,enugu,ogui_eke,38,Nwabundu Felicia Obiogbolu,205,200038205,170038268
+2020-08-20,1,enugu,ogui_eke,38,Nwabundu Felicia Obiogbolu,268,170038268,170038268
+2020-09-12,2,enugu,ogui_eke,38,Nwanneka Ozoamuhe,206,230038206,180038271
+2020-08-20,1,enugu,ogui_eke,38,Nwanneka Ozoamuhe,271,180038271,180038271
+2020-08-20,1,enugu,ogui_eke,38,Obinna Odinko,273,140038273,140038273
+2020-09-12,2,enugu,ogui_eke,38,Obinna Odinko,207,260038207,140038273
+2020-10-05,1,enugu,ogui_eke,38,Obiogbolu Ozoalo,316,120038316,120038316
+2020-08-20,1,enugu,ogui_eke,38,Obiogbolu Ozokolo,274,170038274,120038316
+2020-09-12,2,enugu,ogui_eke,38,Obiora Ozokolo,208,290038208,100038275
+2020-08-20,1,enugu,ogui_eke,38,Obiora Ozokolo,275,100038275,100038275
+2020-08-20,1,enugu,ogui_eke,38,Oforbuike Ozoamuhe (late),278,190038278,190038278
+2020-09-12,2,enugu,ogui_eke,38,Oforbuike Ozoamuhe (late),209,220038209,190038278
+2020-08-20,1,enugu,ogui_eke,38,Ogbonna Ikpamachukwu,279,120038279,120038279
+2020-09-12,2,enugu,ogui_eke,38,Ogbonna Ikpamachukwu,210,270038210,120038279
+2020-09-12,2,enugu,ogui_eke,38,Osmond Ozoamuhe,211,200038211,190038284
+2020-08-20,1,enugu,ogui_eke,38,Osmond Ozoamuhe,284,190038284,190038284
+2020-08-20,1,enugu,ogui_eke,38,Pa Michael Ohaneche Okongwu,287,180038287,180038287
+2020-09-12,2,enugu,ogui_eke,38,Pa Michael Ohaneche Okongwu,213,260038213,180038287
+2020-09-12,2,enugu,ogui_eke,38,Patricia Omulu,214,290038214,110038288
+2020-08-20,1,enugu,ogui_eke,38,Patricia Omulu,288,110038288,110038288
+2020-09-12,2,enugu,ogui_eke,38,Patricia Oyinwa Late,215,220038215,140038289
+2020-08-20,1,enugu,ogui_eke,38,Patricia Oyinwa Late,289,140038289,140038289
+2020-09-12,2,enugu,ogui_eke,38,Paulie Igwegbu,217,280038217,120038291
+2020-08-20,1,enugu,ogui_eke,38,Paulie Igwegbu,291,120038291,120038291
+2020-09-12,2,enugu,ogui_eke,38,Priscilla Aneke (nee Omulu),218,210038218,150038292
+2020-08-20,1,enugu,ogui_eke,38,Priscilla Aneke (nee Omulu),292,150038292,150038292
+2020-08-20,1,enugu,ogui_eke,38,Queen (nee Odinko),293,180038293,180038293
+2020-09-12,2,enugu,ogui_eke,38,Queen (nee Odinko),219,240038219,180038293
+2020-08-20,1,enugu,ogui_eke,38,Raymond Ozikpamachukwu Late,295,140038295,140038295
+2020-09-12,2,enugu,ogui_eke,38,Raymond Ozikpamachukwu Late,220,290038220,140038295
+2020-08-20,1,enugu,ogui_eke,38,Regina Ojide,296,170038296,170038296
+2020-09-12,2,enugu,ogui_eke,38,Regina Ojide,221,220038221,170038296
+2020-09-12,2,enugu,ogui_eke,38,Reginna Aniagoro,222,250038222,100038297
+2020-08-20,1,enugu,ogui_eke,38,Reginna Aniagoro,297,100038297,100038297
+2020-08-20,1,enugu,ogui_eke,38,Remigius Ezenwabba,298,130038298,130038298
+2020-09-12,2,enugu,ogui_eke,38,Remigius Ezenwabba,223,280038223,130038298
+2020-09-12,2,enugu,ogui_eke,38,Reverend Father Tochukwu Nwanamuru,224,210038224,160038299
+2020-08-20,1,enugu,ogui_eke,38,Reverend Father Tochukwu Nwanamuru,299,160038299,160038299
+2020-08-20,1,enugu,ogui_eke,38,Robert Amadife,300,120038300,120038300
+2020-09-12,2,enugu,ogui_eke,38,Robert Amadife,225,240038225,120038300
+2020-08-20,1,enugu,ogui_eke,38,Scholasticca Onyiwa,303,110038303,110038303
+2020-09-12,2,enugu,ogui_eke,38,Scholasticca Onyiwa,227,200038227,110038303
+2020-09-12,2,enugu,ogui_eke,38,Stella Omulu,228,230038228,140038304
+2020-08-20,1,enugu,ogui_eke,38,Stella Omulu,304,140038304,140038304
+2020-08-20,1,enugu,ogui_eke,38,Stella Onyiwa,305,170038305,170038305
+2020-09-12,2,enugu,ogui_eke,38,Stella Onyiwa,229,260038229,170038305
+2020-08-20,1,enugu,ogui_eke,38,Sunday Ikebu,306,100038306,100038306
+2020-09-12,2,enugu,ogui_eke,38,Sunday Ikebu,230,210038230,100038306
+2020-08-20,1,enugu,ogui_eke,38,Surveyor Norbert Nwanamuru,307,130038307,130038307
+2020-09-12,2,enugu,ogui_eke,38,Surveyor Norbert Nwanamuru,231,240038231,130038307
+2020-09-12,2,enugu,ogui_eke,38,Theresa Nwanyinma,233,200038233,140038310
+2020-08-20,1,enugu,ogui_eke,38,Theresa Nwanyinma,310,140038310,140038310
+2020-08-20,1,enugu,ogui_eke,38,Uchenna Odinko,311,170038311,170038311
+2020-09-12,2,enugu,ogui_eke,38,Uchenna Odinko,234,230038234,170038311
+2020-08-20,1,enugu,ogui_eke,38,Ugonna Odinko Late,313,130038313,130038313
+2020-09-12,2,enugu,ogui_eke,38,Ugonna Odinko Late,235,260038235,130038313
+2020-09-12,2,enugu,ogui_eke,38,Uzebeyi Amadife,236,290038236,190038315
+2020-08-20,1,enugu,ogui_eke,38,Uzebeyi Amadife,315,190038315,190038315
+2020-08-20,1,enugu,ogui_eke,38,Anidiobu Amadife,5,140038005,140038005
+2020-08-20,1,enugu,ogui_eke,38,Aniekwe Ozougwu,6,170038006,170038006
+2020-08-20,1,enugu,ogui_eke,38,Anubu Ozoude,15,160038015,160038015
+2020-08-20,1,enugu,ogui_eke,38,Anudu Akpushi,16,190038016,190038016
+2020-08-20,1,enugu,ogui_eke,38,Ariozo Ojide,17,120038017,120038017
+2020-08-20,1,enugu,ogui_eke,38,Chikelu Ozoamuche,25,180038025,180038025
+2020-08-20,1,enugu,ogui_eke,38,Chinyere Isi ( Nee Ikebu),28,170038028,170038028
+2020-08-20,1,enugu,ogui_eke,38,Christie Eze ( Nee Ozikpamachukwu),30,150038030,150038030
+2020-08-20,1,enugu,ogui_eke,38,Ezi Ozoude,45,120038045,120038045
+2020-08-20,1,enugu,ogui_eke,38,Filias Amadife,50,190038050,190038050
+2020-08-20,1,enugu,ogui_eke,38,Igbokwe Ozoume,62,170038062,170038062
+2020-08-20,1,enugu,ogui_eke,38,Ikebu Ozougwu,63,100038063,100038063
+2020-08-20,1,enugu,ogui_eke,38,Innocent Maru,66,190038066,190038066
+2020-08-20,1,enugu,ogui_eke,38,Jonathan Madukwe,72,190038072,190038072
+2020-08-20,1,enugu,ogui_eke,38,Justina ( Nee Nwabundo),73,120038073,120038073
+2020-08-20,1,enugu,ogui_eke,38,Justina Omulu,74,150038074,150038074
+2020-08-20,1,enugu,ogui_eke,38,Kaligwe Ozokolo,75,180038075,180038075
+2020-08-20,1,enugu,ogui_eke,38,Late Felicia Anigbo ( Nee Aniakor),96,150038096,150038096
+2020-08-20,1,enugu,ogui_eke,38,Late Flight Captain Chikelu Ezi,97,180038097,180038097
+2020-08-20,1,enugu,ogui_eke,38,Late Madam Chiegbu Odo ( Nee Ezi),103,190038103,190038103
+2020-08-20,1,enugu,ogui_eke,38,Late Madam Nwanyibuaku Ozoeloh ( Nee Ozoekwu),106,180038106,180038106
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Beatrice Madubu ( Nee Nwanamuru),119,190038119,190038119
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Grace ( Nee Ikpeamachi),121,170038121,170038121
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Izunwaamu Aduchie (nee Ozoude),124,160038124,160038124
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Josephine Ojiaku ( Nee Ozokolo),125,190038125,190038125
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Josephine Sylvester Aniekwu ( Nee Ozougwu),127,150038127,150038127
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Nwabundo ( Nee Ozomagbo),129,110038129,110038129
+2020-08-20,1,enugu,ogui_eke,38,Late Mrs Scholastics Oforkansi ( Nee Nwanamuru),131,190038131,190038131
+2020-08-20,1,enugu,ogui_eke,38,Late Rebecca David ( Nee Ozougwu),150,100038150,100038150
+2020-08-20,1,enugu,ogui_eke,38,Madam Odonna,159,170038159,170038159
+2020-08-20,1,enugu,ogui_eke,38,Madam Pauline Nwankwo ( Nee Ozoude),161,150038161,150038161
+2020-08-20,1,enugu,ogui_eke,38,Madam Uzoego Eze,164,140038164,140038164
+2020-08-20,1,enugu,ogui_eke,38,Mrs Akunna Uzoagulu ( Nee Obuekwe),205,160038205,160038205
+2020-08-20,1,enugu,ogui_eke,38,Mrs Anayo ( Nee Ozomagbo),206,190038206,190038206
+2020-08-20,1,enugu,ogui_eke,38,Mrs Anthonia Anielo ( Nee Nwanamuru),207,120038207,120038207
+2020-08-20,1,enugu,ogui_eke,38,Mrs Anthonia Onyema ( Nee Ozokolo),208,150038208,150038208
+2020-08-20,1,enugu,ogui_eke,38,Mrs Anthonia Onyema Nee Obiogbolu,209,180038209,180038209
+2020-08-20,1,enugu,ogui_eke,38,Mrs Callister Ezi ( Nee Aniekwe),211,160038211,160038211
+2020-08-20,1,enugu,ogui_eke,38,Mrs Chinyere Igwe ( Nee Nwanamuru),215,180038215,180038215
+2020-08-20,1,enugu,ogui_eke,38,Mrs Clementina ( Nee Ogbonna Amadife),219,100038219,100038219
+2020-08-20,1,enugu,ogui_eke,38,Mrs Evelyn Okereke ( Nee Amadife),220,150038220,150038220
+2020-08-20,1,enugu,ogui_eke,38,Mrs Felicia ( Nee Ozomagbo),221,180038221,180038221
+2020-08-20,1,enugu,ogui_eke,38,Mrs Florence Etiko ( Nee Okongwu),222,110038222,110038222
+2020-08-20,1,enugu,ogui_eke,38,Mrs Ifeoma ( Nee Ozoamuhe),224,170038224,170038224
+2020-08-20,1,enugu,ogui_eke,38,Mrs Ifeyinwa Obiekwe ( Nee Nwanamuru),225,100038225,100038225
+2020-08-20,1,enugu,ogui_eke,38,Mrs Justina,226,130038226,130038226
+2020-08-20,1,enugu,ogui_eke,38,Mrs Katherine Osmond ( Nee Ikpeamachi),227,160038227,160038227
+2020-08-20,1,enugu,ogui_eke,38,Mrs Mgbodunma Ejiofor ( Nee Obuekwe),229,120038229,120038229
+2020-08-20,1,enugu,ogui_eke,38,Mrs Ngozi Amadife ( Nee Aniekwe),230,170038230,170038230
+2020-08-20,1,enugu,ogui_eke,38,Mrs Nwanneka ( Nee Ozoamuhe),231,100038231,100038231
+2020-08-20,1,enugu,ogui_eke,38,Mrs Nwanneka Ogbodo ( Nee Nwanamuru),232,130038232,130038232
+2020-08-20,1,enugu,ogui_eke,38,Mrs Obiageri Agwu ( Nee Okeruwo Ozokolo),233,160038233,160038233
+2020-08-20,1,enugu,ogui_eke,38,Mrs Onyinye Egesi ( Nee Ofordu Udeigbo),236,150038236,150038236
+2020-08-20,1,enugu,ogui_eke,38,Mrs Patricia Ejiofor ( Nee Nwanamuru),238,110038238,110038238
+2020-08-20,1,enugu,ogui_eke,38,Mrs Regina Eze ( Nee Nwanamuru),239,140038239,140038239
+2020-08-20,1,enugu,ogui_eke,38,Mrs Rose ( Nee Aniakor),240,190038240,190038240
+2020-08-20,1,enugu,ogui_eke,38,Mrs Rose Igweze ( Nee Madubuko),242,150038242,150038242
+2020-08-20,1,enugu,ogui_eke,38,Mrs Scholastics ( Nee Amadife),243,180038243,180038243
+2020-08-20,1,enugu,ogui_eke,38,Mrs Theresa Nwanze ( Nee Nwanamuru),246,170038246,170038246
+2020-08-20,1,enugu,ogui_eke,38,Mrs Veronica Ndili ( Nee Ofordu Udeigbo),250,110038250,110038250
+2020-08-20,1,enugu,ogui_eke,38,Mrs Virginia Udeagulu ( Nee Ozougwu),251,140038251,140038251
+2020-08-20,1,enugu,ogui_eke,38,Nduaguwa Ozoigba,253,100038253,100038253
+2020-08-20,1,enugu,ogui_eke,38,Nebeihe Ozoamuche,255,160038255,160038255
+2020-08-20,1,enugu,ogui_eke,38,Nnabude Ozoamuche,259,180038259,180038259
+2020-08-20,1,enugu,ogui_eke,38,Nnaekwe Odinko,260,130038260,130038260
+2020-08-20,1,enugu,ogui_eke,38,Nnaemezie Ozomagbo,261,160038261,160038261
+2020-08-20,1,enugu,ogui_eke,38,Nnagbo Onwushi,262,190038262,190038262
+2020-08-20,1,enugu,ogui_eke,38,Nnedu Onyiwa,264,150038264,150038264
+2020-08-20,1,enugu,ogui_eke,38,Nwabba,266,110038266,110038266
+2020-08-20,1,enugu,ogui_eke,38,Nwanamuru Ojidi,269,100038269,100038269
+2020-08-20,1,enugu,ogui_eke,38,Nwannebuike Ozikpamachukwu,270,150038270,150038270
+2020-08-20,1,enugu,ogui_eke,38,Nwaozougwu Apani,272,110038272,110038272
+2020-08-20,1,enugu,ogui_eke,38,Obueke Ozoikpa,276,130038276,130038276
+2020-08-20,1,enugu,ogui_eke,38,Obuekwe Aniakor,277,160038277,160038277
+2020-08-20,1,enugu,ogui_eke,38,Okeruwe Ozokolo,280,170038280,170038280
+2020-08-20,1,enugu,ogui_eke,38,Okey Ejiofor,281,100038281,100038281
+2020-08-20,1,enugu,ogui_eke,38,Okey Madubuko,282,130038282,130038282
+2020-08-20,1,enugu,ogui_eke,38,Okongwu Ozokolo,283,160038283,160038283
+2020-08-20,1,enugu,ogui_eke,38,Ozougwu Ojide,286,150038286,150038286
+2020-08-20,1,enugu,ogui_eke,38,Raymond Ikpamachukwu,294,110038294,110038294
+2020-08-20,1,enugu,ogui_eke,38,Scholastica Oyinwa,302,180038302,180038302
+2020-08-20,1,enugu,ogui_eke,38,Udeigbo Ojide,312,100038312,100038312
+2020-08-20,1,enugu,ogui_eke,38,Uke Omulu,314,160038314,160038314
+2020-10-11,1,enugu,ogui_eke,38,Chukwuemeka Anigbo,318,180038318,180038318
+2020-09-12,2,enugu,ogui_eke,38,Chinyere Isi (nee Ikebu),16,230038016,230038016
+2020-09-12,2,enugu,ogui_eke,38,Christie Eze (nee Ozikpamachukwu),18,290038018,290038018
+2020-09-12,2,enugu,ogui_eke,38,Late Felicia Anigbo (nee Aniakor),71,200038071,200038071
+2020-09-12,2,enugu,ogui_eke,38,Late Madam Chiegbu Odo (nee Ezi),77,280038077,280038077
+2020-09-12,2,enugu,ogui_eke,38,Late Madam Nwanyibuaku Ozoeloh (nee Ozoekwu),80,290038080,290038080
+2020-09-12,2,enugu,ogui_eke,38,Late Mgbodinma (nee Ozomagbo ),84,210038084,210038084
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Beatrice Madubu (nee Nwanamuru),93,200038093,200038093
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Grace (nee Ikpeamachi),95,260038095,260038095
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Josephine Sylvester Aniekwu (nee Ozougwu),97,220038097,220038097
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Mgbodinma (nee Ozomagbo),98,250038098,250038098
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Nwabundo (nee Ozomagbo),99,280038099,280038099
+2020-09-12,2,enugu,ogui_eke,38,Late Mrs Scholastics Oforkansi (nee Nwanamuru),101,270038101,270038101
+2020-09-12,2,enugu,ogui_eke,38,Late Rebecca David (nee Ozougwu),116,240038116,240038116
+2020-09-12,2,enugu,ogui_eke,38,Mrs Akunna Uzoagulu (nee Obuekwe),160,260038160,260038160
+2020-09-12,2,enugu,ogui_eke,38,Mrs Anayo (nee Ozomagbo),161,290038161,290038161
+2020-09-12,2,enugu,ogui_eke,38,Mrs Anthonia Anielo (nee Nwanamuru),162,220038162,220038162
+2020-09-12,2,enugu,ogui_eke,38,Mrs Callister Ezi (nee Aniekwe),164,280038164,280038164
+2020-09-12,2,enugu,ogui_eke,38,Mrs Chinyere Igwe (nee Nwanamuru),167,270038167,270038167
+2020-09-12,2,enugu,ogui_eke,38,Mrs Clementina (nee Ogbonna Amadife),168,200038168,200038168
+2020-09-12,2,enugu,ogui_eke,38,Mrs Evelyn Okereke (nee Amadife),169,230038169,230038169
+2020-09-12,2,enugu,ogui_eke,38,Mrs Felicia (nee Ozomagbo),170,280038170,280038170
+2020-09-12,2,enugu,ogui_eke,38,Mrs Ifeyinwa Obiekwe (nee Nwanamuru),173,270038173,270038173
+2020-09-12,2,enugu,ogui_eke,38,Mrs Katherine Osmond (nee Ikpeamachi),174,200038174,200038174
+2020-09-12,2,enugu,ogui_eke,38,Mrs Mgbodunma Ejiofor (nee Obuekwe),176,260038176,260038176
+2020-09-12,2,enugu,ogui_eke,38,Mrs Ngozi Amadife (nee Aniekwe),177,290038177,290038177
+2020-09-12,2,enugu,ogui_eke,38,Mrs Nwanneka (nee Ozoamuhe),178,220038178,220038178
+2020-09-12,2,enugu,ogui_eke,38,Mrs Nwanneka Ogbodo (nee Nwanamuru),179,250038179,250038179
+2020-09-12,2,enugu,ogui_eke,38,Mrs Obiageri Agwu (nee Okeruwo Ozokolo),180,200038180,200038180
+2020-09-12,2,enugu,ogui_eke,38,Mrs Onyinye Egesi (nee Ofordu Udeigbo),183,290038183,290038183
+2020-09-12,2,enugu,ogui_eke,38,Mrs Patricia Ejiofor (nee Nwanamuru),185,250038185,250038185
+2020-09-12,2,enugu,ogui_eke,38,Mrs Regina Eze (nee Nwanamuru),186,280038186,280038186
+2020-09-12,2,enugu,ogui_eke,38,Mrs Rose (nee Aniakor),187,210038187,210038187
+2020-09-12,2,enugu,ogui_eke,38,Mrs Scholastics (nee Amadife),190,220038190,220038190
+2020-09-12,2,enugu,ogui_eke,38,Mrs Theresa Nwanze (nee Nwanamuru),193,210038193,210038193
+2020-09-12,2,enugu,ogui_eke,38,Mrs Veronica Ndili (nee Ofordu Udeigbo),195,270038195,270038195
+2020-09-12,2,enugu,ogui_eke,38,Mrs Virginia Udeagulu (nee Ozougwu),196,200038196,200038196
+2020-09-21,2,enugu,ogui_eke,38,Justina Omulu (nee Nwabundu),238,250038238,250038238
+2020-09-21,2,enugu,ogui_eke,38,Kate Ikpeamachukwu (nee Igwegbu),239,280038239,280038239
+2020-09-21,2,enugu,ogui_eke,38,Late Mrs Josephine Ojiaku (nee Ozokolo),242,290038242,290038242
+2020-09-21,2,enugu,ogui_eke,38,Madam Veronica N Mba (nee Ozoude),245,280038245,280038245
+2020-09-21,2,enugu,ogui_eke,38,Mrs Adriane Eze (nee Ozomagbo),248,270038248,270038248
+2020-09-21,2,enugu,ogui_eke,38,Mrs Anthonia Onyema (nee Obiogbolu),249,200038249,200038249
+2020-09-21,2,enugu,ogui_eke,38,Mrs Anthonia Onyema (nee Ozokolo),250,250038250,250038250
+2020-09-21,2,enugu,ogui_eke,38,Mrs Christiana Olunwa Eze (nee Ikpeamachukwu),253,240038253,240038253
+2020-09-21,2,enugu,ogui_eke,38,Mrs Uzoego Eze (nee Ozoikpa),254,270038254,270038254
+2020-09-21,2,enugu,ogui_eke,38,Nwannebuike Ikpeamachukwu,255,200038255,200038255
+2020-10-05,2,enugu,ogui_eke,38,Chinwetelu Udeh Late,256,230038256,230038256
+2020-10-05,2,enugu,ogui_eke,38,Emeka Obiogbolu Late,257,260038257,260038257
+2020-10-05,2,enugu,ogui_eke,38,Ndu Obiogbolu Late,258,290038258,290038258
+2020-10-05,2,enugu,ogui_eke,38,Nwabundu Obiogbolu Late,259,220038259,220038259
+2020-10-05,2,enugu,ogui_eke,38,Nwakaego Udeh Late,260,270038260,270038260
+2020-10-05,2,enugu,ogui_eke,38,Nweze Awalo Late,261,200038261,200038261
+2020-10-05,2,enugu,ogui_eke,38,Okechukwu Udeh Late,262,230038262,230038262
+2020-10-06,2,enugu,ogui_eke,38,Ben Malu,263,260038263,260038263
+2020-10-06,2,enugu,ogui_eke,38,Charley Ndioro,264,290038264,290038264
+2020-10-06,2,enugu,ogui_eke,38,Chinedu Jude Malu,265,220038265,220038265
+2020-10-06,2,enugu,ogui_eke,38,Chinyere (nee Malu),266,250038266,250038266
+2020-10-06,2,enugu,ogui_eke,38,Eddy Malu,267,280038267,280038267
+2020-10-06,2,enugu,ogui_eke,38,Henry Malu,268,210038268,210038268
+2020-10-06,2,enugu,ogui_eke,38,Ifeanyi Malu,269,240038269,240038269
+2020-10-06,2,enugu,ogui_eke,38,Late Hygenus Malu,270,290038270,290038270
+2020-10-06,2,enugu,ogui_eke,38,Linus Malu,271,220038271,220038271
+2020-10-06,2,enugu,ogui_eke,38,Modesta Malu,272,250038272,250038272
+2020-10-06,2,enugu,ogui_eke,38,Ms Chizoba Malu,273,280038273,280038273
+2020-10-06,2,enugu,ogui_eke,38,Tina Malu,275,240038275,240038275
+2020-10-06,2,enugu,ogui_eke,38,Tony Ikechukwu Malu,276,270038276,270038276
+2020-10-11,2,enugu,ogui_eke,38,Anna Anigbo,277,200038277,200038277
+2020-10-11,2,enugu,ogui_eke,38,Benedeth Eze,278,230038278,230038278
+2020-10-11,2,enugu,ogui_eke,38,Christiana Ifo,279,260038279,260038279
+2020-10-11,2,enugu,ogui_eke,38,Eugenia Okechukwu,280,210038280,210038280
+2020-10-11,2,enugu,ogui_eke,38,Gladis Odugha,281,240038281,240038281
+2020-10-11,2,enugu,ogui_eke,38,Justina Adichie,282,270038282,270038282
+2020-10-11,2,enugu,ogui_eke,38,Late Clementina,283,200038283,200038283
+2020-10-11,2,enugu,ogui_eke,38,Late Jideofor Anigbo,284,230038284,230038284
+2020-10-11,2,enugu,ogui_eke,38,Late Kelvin Anigbo,285,260038285,260038285
+2020-10-11,2,enugu,ogui_eke,38,Modesta Anigbo,286,290038286,290038286
+2020-10-11,2,enugu,ogui_eke,38,Nnenna Ikechukwu,287,220038287,220038287
+2020-10-11,2,enugu,ogui_eke,38,Paul Ifo,288,250038288,250038288
+2020-10-11,2,enugu,ogui_eke,38,Uchenna Evaristus Anigbo,289,280038289,280038289
